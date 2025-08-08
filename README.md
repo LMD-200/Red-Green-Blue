@@ -13,12 +13,9 @@ The repository showcases code written in Java, likely focused on concepts relate
 ```bash
 # Clone the repository
 Ensure you have Java installed
-Open in a code editor such as Visual Studio Code
+Open in a code editor (Visual Studio Code recommended)
 ```
 
 ## Usage
 
-
-```bash
 Under the SRC section, select App.java. Run it and a small window will appear in the left corner of the screen. Select full screen for better imagery. There will be 3 sliders. Moving them will change the color gradients for the background
-```
