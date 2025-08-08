@@ -1,7 +1,7 @@
 # Red-Green-Blue
 
 A simple Java project.  
-The repository showcases code written in Java, likely focused on concepts related to color (red, green, blue) or color manipulation, but no further description is currently provided.
+The repository showcases code written in Java, focused on RGB colors (red, green, blue)
 
 ## Features
 
