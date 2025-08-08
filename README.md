@@ -12,19 +12,13 @@ The repository showcases code written in Java, likely focused on concepts relate
 
 ```bash
 # Clone the repository
-git clone https://github.com/LMD446/Red-Green-Blue.git
-cd Red-Green-Blue
-
-# Install dependencies (if any)
-# For Java projects, ensure you have JDK installed.
+Ensure you have Java installed
+Open in a code editor such as Visual Studio Code
 ```
 
 ## Usage
 
-Explain how to run or use your project. Include code examples if helpful.
 
 ```bash
-# Example command to compile and run (adjust for your main class)
-javac Main.java
-java Main
+Under the SRC section, select App.java. Run it and a small window will appear in the left corner of the screen. Select full screen for better imagery. There will be 3 sliders. Moving them will change the color gradients for the background
 ```
